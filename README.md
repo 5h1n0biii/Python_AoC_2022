@@ -1,6 +1,6 @@
-# Advent of Code 2022 in Python Solutions
+# Advent of Code 2022 in Python: Every day solutions
 
-Solving the new **AoC 2022 in Python**: 
+Solved the new **AoC 2022 in Python**: 
 
 Enjoy! 
 
