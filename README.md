@@ -13,4 +13,4 @@ Enjoy!
 or:
 
 1. Clone this repository to wherever you like.
-2. Swap the input in `input.txt` to your personal Advent of Code puzzle input.
+2. Swap the input in `input.txt` with your personal Advent of Code puzzle input.
